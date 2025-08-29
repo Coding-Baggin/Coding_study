@@ -1,7 +1,8 @@
 # 기본 print
 print("Hello World!","Me Either!")
 
-# 줄바꿈
+# 줄바꿈, ","빈칸
+print()
 print()
 
 
@@ -11,7 +12,6 @@ print(type("안녕하세요!"))
 print(type(3))
 print(type(3.3))
 print(type(True))
-
 # "", ''
 # Syntax Error
 # print(""안녕하세요"라고 합니다")
